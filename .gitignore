@@ -18,6 +18,9 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+.env
+.env.*
+
 azuredeploy.json
 azuredeploy.parameters.json
 ManufacturingVMazuredeploy.json
